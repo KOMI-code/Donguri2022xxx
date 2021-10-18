@@ -1,0 +1,11 @@
+C:\Users\komi\Documents\GitHub\Donguri2022\bin\Donguri2022.exe.config
+C:\Users\komi\Documents\GitHub\Donguri2022\bin\Donguri2022.exe
+C:\Users\komi\Documents\GitHub\Donguri2022\bin\Donguri2022.pdb
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.csproj.AssemblyReference.cache
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.FormMain.resources
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.Properties.Resources.resources
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.csproj.GenerateResource.cache
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.csproj.CoreCompileInputs.cache
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.csproj.CopyComplete
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.exe
+C:\Users\komi\Documents\GitHub\Donguri2022\Donguri2022\obj\Debug\Donguri2022.pdb

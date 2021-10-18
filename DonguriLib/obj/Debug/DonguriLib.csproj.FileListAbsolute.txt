@@ -1,0 +1,8 @@
+C:\Users\komi\Documents\GitHub\Donguri2022\bin\DonguriLib.dll.config
+C:\Users\komi\Documents\GitHub\Donguri2022\bin\DonguriLib.dll
+C:\Users\komi\Documents\GitHub\Donguri2022\bin\DonguriLib.pdb
+C:\Users\komi\Documents\GitHub\Donguri2022\DonguriLib\obj\Debug\DonguriLib.csproj.AssemblyReference.cache
+C:\Users\komi\Documents\GitHub\Donguri2022\DonguriLib\obj\Debug\DonguriLib.csproj.CoreCompileInputs.cache
+C:\Users\komi\Documents\GitHub\Donguri2022\DonguriLib\obj\Debug\DonguriLib.csproj.CopyComplete
+C:\Users\komi\Documents\GitHub\Donguri2022\DonguriLib\obj\Debug\DonguriLib.dll
+C:\Users\komi\Documents\GitHub\Donguri2022\DonguriLib\obj\Debug\DonguriLib.pdb
